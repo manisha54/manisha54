@@ -7,6 +7,8 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=manisha54&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RLsfgZfNGJ3fzlMXdV/giphy.gif" width="100"/>
 </div>
@@ -19,3 +21,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+ <img src="https://komarev.com/ghpvc/?username=your-github-mansiha54&style=flat-square&color=blue" alt=""/>
+ 
+ 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manisha54)](https://github.com/manisha54/github-readme-stats)
