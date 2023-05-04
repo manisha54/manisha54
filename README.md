@@ -1,8 +1,6 @@
 ### Hi there, I'm  Manisha 👋 
-
-- 👨🏻‍💻 I'm an IT student and currently, studing Bsc.Hons Computing at Softwarica College of IT and E-commerce.
-- Enthusiastic student of IT seeking to build my career and collaborate with IT professional inorder to learnn technique, gather information and enhance skills.
-
+- 👩‍💻I'm an IT student and currently, studing Bsc.Hons Computing at Softwarica College of IT and E-commerce.
+- 🙋 Enthusiastic student of IT seeking to build my career and collaborate with IT professional inorder to learnn technique, gather information and enhance skills.
 
 
 
@@ -11,13 +9,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manisha54&layout=compact&theme=vision-friendly-dark)](https://github.com/manisha54/github-readme-stats)
 
-
-
 <img src = "https://github-readme-stats.vercel.app/api?username=manisha54&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/RLsfgZfNGJ3fzlMXdV/giphy.gif" width="100"/>
-</div>
+
+
 
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/manisha-chaudhary-759425238/)">
