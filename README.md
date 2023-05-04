@@ -24,4 +24,4 @@
  <img src="https://komarev.com/ghpvc/?username=your-github-mansiha54&style=flat-square&color=blue" alt=""/>
  
  
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manisha54)](https://github.com/manisha54/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manisha54&layout=compact&theme=vision-friendly-dark)](https://github.com/manisha54/github-readme-stats)
